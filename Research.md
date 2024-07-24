@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Working Papers
 
-[(2024) The Differential Impact of Tariffs by Quality: Estimates from Scotch Whisky](http://localhost:4000/files/JMP.pdf)
+[(2024) The Differential Impact of Tariffs by Quality: Estimates from Scotch Whisky](/files/JMP.pdf)
 
 ### Work in Progress
 

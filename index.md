@@ -11,7 +11,7 @@ layout: home
 ## About Me
 I am an Assistant Professor of Economics at Bryn Mawr College.
 
-My primary research interests are in industrial organization and international trade, specifically in how the effects of policies (such as tariffs or anti-trust) are moderated by firm market power.
+My primary research interests are in industrial organization and international trade, specifically in how the effects of policies (such as tariffs or antitrust) are moderated by firms' market power.
 
 I received my PhD in Economics from the University of Minnesota.
 
